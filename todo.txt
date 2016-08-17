@@ -1,0 +1,17 @@
+neues c-sharp projekt anlegen
+	Konsolenanwendung 
+	.NET Framework 4.5
+	pfad: c:/dev/dbbr
+		src
+			app.sln
+			cli
+		bin //
+		doc
+		lip
+		[packeges]
+
+in stash neues git repossitory
+git ignore Datei hinzufügen
+	ignorieren
+		binaries
+		.vs
