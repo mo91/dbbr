@@ -19,4 +19,11 @@ git ignore Datei hinzufügen
 Architektur gestalten
 https://docs.google.com/drawings/d/1zUU-0ia7FjbFvbrPnlTv5kJFRsXS9tc6LXp8i5_pXII/edit
 
-
+parameter parsen und einzelne werte ausgeben
+	Eingabe:
+		$ cli --source-server "UQHHS005" --source-db "u_usp" --target-server "UQHHS051" --target-db "u_usp_test"
+	Ausgabe:
+		$ SourceServer: UQHHS005
+		$ SourceDb: u_usp
+		$ TargetServer: UQHHS051
+		$ TargetDb: u_usp_test
